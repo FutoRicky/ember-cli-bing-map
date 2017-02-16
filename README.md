@@ -1,16 +1,16 @@
-# Ember-cli-bing-map 
+# Ember-cli-bing-map
 [![Build Status](https://travis-ci.org/cometaworks/ember-cli-bing-map.svg?branch=tests%2Ftravis-ci-build)](https://travis-ci.org/cometaworks/ember-cli-bing-map)
 
 Simple bing map component for ember-cli
 
-[Demo](http://cometaworks.github.io/ember-cli-bing-map/) 
+[Demo](http://futoricky.github.io/ember-cli-bing-map/) 
 (Markers, PolygonLocation, and Polygon colors are random in this demo)
 
 ## Installation
 
 ```
 ember install ember-cli-bing-map
-``` 
+```
 
 ## Usage
 
@@ -37,7 +37,7 @@ bingAPI: 'API-KEY',
 
 Current available entities:
 
-`lat` = `number value` 
+`lat` = `number value`
 
 `lng` = `number value`
 
@@ -67,7 +67,7 @@ polygonLocation: {
   location1:{
     lat: 18.5,
     lng: -66.3
-  }, 
+  },
   location2:{
     lat:18.5,
     lng:-65.9
